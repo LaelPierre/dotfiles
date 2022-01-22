@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lael.aichaoui@gmail.com
+	name = lael aichaoui
